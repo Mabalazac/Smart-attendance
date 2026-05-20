@@ -1,0 +1,139 @@
+course_code,course_name,program,academic_year,lecturer_email,lecturer_name,venue_name,day,start_time,end_time,type,class
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH1,Monday,08:00,10:00,lecture,BIT_1A
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH2,Monday,10:00,12:00,lecture,BIT_1B
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH3,Monday,08:00,10:00,lecture,BIT_1B
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH1,Monday,13:00,15:00,lecture,BIT_1A
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH4,Monday,10:00,12:00,lecture,BIT_1A
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH4,Monday,08:00,10:00,lecture,BIT_1B
+IT104,Communication Skills,BSc IT,1,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Monday,15:00,17:00,lecture,BIT_1A
+IT104,Communication Skills,BSc IT,1,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Monday,13:00,15:00,lecture,BIT_1B
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH1,Monday,08:00,10:00,lecture,BIT_2A
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH2,Monday,10:00,12:00,lecture,BIT_2B
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH3,Monday,13:00,15:00,lecture,BIT_2A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH3,Monday,15:00,17:00,lecture,BIT_2B
+IT203,Operating Systems,BSc IT,2,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH4,Monday,08:00,10:00,lecture,BIT_2B
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB1,Monday,13:00,15:00,lab,BIT_2A
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB1,Monday,15:00,17:00,lab,BIT_2B
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH1,Monday,10:00,12:00,lecture,BIT_3A
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH2,Monday,08:00,10:00,lecture,BIT_3B
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH3,Monday,15:00,17:00,lecture,BIT_3A
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH3,Monday,13:00,15:00,lecture,BIT_3B
+IT303,Artificial Intelligence,BSc IT,3,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH5,Monday,08:00,10:00,lecture,BIT_3A
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB1,Tuesday,08:00,10:00,lab,BIT_1A
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB1,Tuesday,10:00,12:00,lab,BIT_1B
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH2,Tuesday,13:00,15:00,lecture,BIT_1A
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH3,Tuesday,08:00,10:00,lecture,BIT_1A
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH3,Tuesday,10:00,12:00,lecture,BIT_1B
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB2,Tuesday,08:00,10:00,lab,BIT_2A
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB2,Tuesday,10:00,12:00,lab,BIT_2B
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB1,Tuesday,13:00,15:00,lab,BIT_2A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB1,Tuesday,15:00,17:00,lab,BIT_2B
+IT203,Operating Systems,BSc IT,2,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH4,Tuesday,08:00,10:00,lecture,BIT_2A
+IT203,Operating Systems,BSc IT,2,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH4,Tuesday,10:00,12:00,lecture,BIT_2B
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH1,Tuesday,13:00,15:00,lecture,BIT_3A
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB2,Tuesday,08:00,10:00,lab,BIT_3A
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB2,Tuesday,10:00,12:00,lab,BIT_3B
+IT303,Artificial Intelligence,BSc IT,3,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH5,Tuesday,13:00,15:00,lecture,BIT_3B
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH1,Wednesday,08:00,10:00,lecture,BIT_1A
+IT104,Communication Skills,BSc IT,1,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Wednesday,10:00,12:00,lecture,BIT_1A
+IT104,Communication Skills,BSc IT,1,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Wednesday,08:00,10:00,lecture,BIT_1B
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH2,Wednesday,13:00,15:00,lecture,BIT_2A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH3,Wednesday,08:00,10:00,lecture,BIT_2A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH3,Wednesday,10:00,12:00,lecture,BIT_2B
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LH4,Wednesday,13:00,15:00,lecture,BIT_2A
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LH4,Wednesday,15:00,17:00,lecture,BIT_2B
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB1,Wednesday,08:00,10:00,lab,BIT_3A
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB1,Wednesday,10:00,12:00,lab,BIT_3B
+IT303,Artificial Intelligence,BSc IT,3,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB2,Wednesday,13:00,15:00,lab,BIT_3A
+IT303,Artificial Intelligence,BSc IT,3,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LAB2,Wednesday,15:00,17:00,lab,BIT_3B
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH1,Thursday,13:00,15:00,lecture,BIT_1A
+IT101,Introduction to Programming,BSc IT,1,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH1,Thursday,15:00,17:00,lecture,BIT_1B
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH2,Thursday,08:00,10:00,lecture,BIT_1A
+IT103,Mathematics for Computing,BSc IT,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH2,Thursday,10:00,12:00,lecture,BIT_1B
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH3,Thursday,08:00,10:00,lecture,BIT_2A
+IT201,Data Structures & Algorithms,BSc IT,2,j.mwangi@ifm.ac.tz,Dr. J. Mwangi,LH3,Thursday,10:00,12:00,lecture,BIT_2B
+IT203,Operating Systems,BSc IT,2,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LAB1,Thursday,13:00,15:00,lab,BIT_2A
+IT203,Operating Systems,BSc IT,2,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LAB1,Thursday,15:00,17:00,lab,BIT_2B
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH4,Thursday,08:00,10:00,lecture,BIT_3A
+IT302,Network Security,BSc IT,3,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH4,Thursday,10:00,12:00,lecture,BIT_3B
+IT304,Project Management,BSc IT,3,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Thursday,13:00,15:00,lecture,BIT_3A
+IT304,Project Management,BSc IT,3,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH5,Thursday,15:00,17:00,lecture,BIT_3B
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LAB1,Friday,08:00,10:00,lab,BIT_1A
+IT102,Computer Architecture,BSc IT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LAB1,Friday,10:00,12:00,lab,BIT_1B
+IT104,Communication Skills,BSc IT,1,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH1,Friday,13:00,15:00,lecture,BIT_1A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH2,Friday,08:00,10:00,lecture,BIT_2A
+IT202,Database Systems,BSc IT,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH2,Friday,10:00,12:00,lecture,BIT_2B
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB2,Friday,13:00,15:00,lab,BIT_2A
+IT204,Web Development I,BSc IT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB2,Friday,15:00,17:00,lab,BIT_2B
+IT301,Software Engineering,BSc IT,3,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH3,Friday,08:00,10:00,lecture,BIT_3A
+IT304,Project Management,BSc IT,3,r.hassan@ifm.ac.tz,Mr. R. Hassan,LH4,Friday,08:00,10:00,lecture,BIT_3B
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LH6,Monday,08:00,10:00,lecture,BCS_1A
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LH6,Monday,10:00,12:00,lecture,BCS_1B
+CS102,Discrete Mathematics,BSc CS,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH7,Monday,13:00,15:00,lecture,BCS_1A
+CS102,Discrete Mathematics,BSc CS,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH7,Monday,15:00,17:00,lecture,BCS_1B
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LAB3,Monday,08:00,10:00,lab,BCS_1A
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LAB3,Monday,10:00,12:00,lab,BCS_1B
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LH6,Monday,13:00,15:00,lecture,BCS_2A
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LH6,Monday,15:00,17:00,lecture,BCS_2B
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH7,Monday,08:00,10:00,lecture,BCS_2A
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH7,Monday,10:00,12:00,lecture,BCS_2B
+CS203,Software Design Patterns,BSc CS,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH8,Monday,13:00,15:00,lecture,BCS_2A
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LAB3,Tuesday,08:00,10:00,lab,BCS_1A
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LAB3,Tuesday,10:00,12:00,lab,BCS_1B
+CS102,Discrete Mathematics,BSc CS,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH6,Tuesday,13:00,15:00,lecture,BCS_1A
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LH7,Tuesday,08:00,10:00,lecture,BCS_1B
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LAB4,Tuesday,08:00,10:00,lab,BCS_2A
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LAB4,Tuesday,10:00,12:00,lab,BCS_2B
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB3,Tuesday,13:00,15:00,lab,BCS_2A
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB3,Tuesday,15:00,17:00,lab,BCS_2B
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LH6,Wednesday,08:00,10:00,lecture,BCS_1A
+CS102,Discrete Mathematics,BSc CS,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH7,Wednesday,10:00,12:00,lecture,BCS_1B
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LAB4,Wednesday,13:00,15:00,lab,BCS_1A
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LAB4,Wednesday,15:00,17:00,lab,BCS_1B
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LH8,Wednesday,08:00,10:00,lecture,BCS_2A
+CS203,Software Design Patterns,BSc CS,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH6,Wednesday,13:00,15:00,lecture,BCS_2B
+CS102,Discrete Mathematics,BSc CS,1,p.ndege@ifm.ac.tz,Ms. P. Ndege,LH7,Thursday,08:00,10:00,lecture,BCS_1A
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LH8,Thursday,10:00,12:00,lecture,BCS_1A
+CS103,Programming Fundamentals,BSc CS,1,f.charles@ifm.ac.tz,Ms. F. Charles,LH8,Thursday,08:00,10:00,lecture,BCS_1B
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH6,Thursday,13:00,15:00,lecture,BCS_2A
+CS202,Computer Networks,BSc CS,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH6,Thursday,15:00,17:00,lecture,BCS_2B
+CS203,Software Design Patterns,BSc CS,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB4,Thursday,08:00,10:00,lab,BCS_2A
+CS203,Software Design Patterns,BSc CS,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LAB4,Thursday,10:00,12:00,lab,BCS_2B
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LH7,Friday,08:00,10:00,lecture,BCS_1A
+CS101,Introduction to Computer Science,BSc CS,1,m.ally@ifm.ac.tz,Dr. M. Ally,LH7,Friday,10:00,12:00,lecture,BCS_1B
+CS201,Algorithms & Complexity,BSc CS,2,m.ally@ifm.ac.tz,Dr. M. Ally,LH8,Friday,13:00,15:00,lecture,BCS_2A
+CS203,Software Design Patterns,BSc CS,2,s.ouma@ifm.ac.tz,Dr. S. Ouma,LH6,Friday,08:00,10:00,lecture,BCS_2B
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH9,Monday,08:00,10:00,lecture,ODIT_1A
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH9,Monday,10:00,12:00,lecture,ODIT_1B
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH10,Monday,13:00,15:00,lecture,ODIT_1A
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH10,Monday,15:00,17:00,lecture,ODIT_1B
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Monday,08:00,10:00,lab,ODIT_1A
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Monday,10:00,12:00,lab,ODIT_1B
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH9,Monday,13:00,15:00,lecture,ODIT_2A
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH9,Monday,15:00,17:00,lecture,ODIT_2B
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB5,Monday,13:00,15:00,lab,ODIT_2A
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB5,Monday,15:00,17:00,lab,ODIT_2B
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Tuesday,08:00,10:00,lab,ODIT_1A
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Tuesday,10:00,12:00,lab,ODIT_1B
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH9,Tuesday,13:00,15:00,lecture,ODIT_1A
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH10,Tuesday,08:00,10:00,lecture,ODIT_1B
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB5,Tuesday,13:00,15:00,lab,ODIT_2A
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB5,Tuesday,15:00,17:00,lab,ODIT_2B
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LH10,Tuesday,08:00,10:00,lecture,ODIT_2A
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LH10,Tuesday,10:00,12:00,lecture,ODIT_2B
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH9,Wednesday,08:00,10:00,lecture,ODIT_1A
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH10,Wednesday,10:00,12:00,lecture,ODIT_1A
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH10,Wednesday,08:00,10:00,lecture,ODIT_1B
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Wednesday,13:00,15:00,lab,ODIT_1B
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH9,Wednesday,13:00,15:00,lecture,ODIT_2A
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB5,Wednesday,15:00,17:00,lab,ODIT_2B
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH9,Thursday,08:00,10:00,lecture,ODIT_1A
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH9,Thursday,10:00,12:00,lecture,ODIT_1B
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH10,Thursday,13:00,15:00,lecture,ODIT_1A
+OD103,Office Applications,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LH10,Thursday,15:00,17:00,lecture,ODIT_1B
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LH9,Thursday,13:00,15:00,lecture,ODIT_2A
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LH10,Thursday,08:00,10:00,lecture,ODIT_2B
+OD101,Introduction to ICT,ODIT,1,t.mapunda@ifm.ac.tz,Mr. T. Mapunda,LAB5,Friday,08:00,10:00,lab,ODIT_1A
+OD102,Computer Fundamentals,ODIT,1,a.kimaro@ifm.ac.tz,Mr. A. Kimaro,LH9,Friday,10:00,12:00,lecture,ODIT_1B
+OD201,System Administration,ODIT,2,b.mushi@ifm.ac.tz,Mr. B. Mushi,LAB5,Friday,13:00,15:00,lab,ODIT_2A
+OD202,Web Technologies,ODIT,2,f.charles@ifm.ac.tz,Ms. F. Charles,LAB5,Friday,15:00,17:00,lab,ODIT_2B

@@ -1,0 +1,35 @@
+# Virtual environment
+backend/venv/
+backend/.venv/
+venv/
+.venv/
+
+# Node modules
+frontend/node_modules/
+node_modules/
+
+# Local databases
+backend/db.sqlite3
+db.sqlite3
+
+# Python cache files
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Document and presentation build assets (optional to ignore, recommended for code-only repo)
+*.zip
+*.pdf
+*.docx
+
+# Environment variables
+backend/.env
+.env
+.env.local
+
+# IDE & Editor files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
