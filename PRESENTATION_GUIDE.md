@@ -170,3 +170,4 @@ Since we are starting with a completely empty database, run the demo in this ord
 ### 2. Python command is not recognized
 * This means Python was installed without checking "Add Python to PATH".
 * **Fix**: Run the Python installer file again, click **Modify**, check **Add Python to PATH**, and finish. Then close and reopen VS Code.
+gracias
