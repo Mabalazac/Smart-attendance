@@ -149,7 +149,7 @@ To access the app from your mobile phone:
 ## 🔑 Login Credentials for Presentation
 
 ### Scenario 1: If you chose Option A (Start Fresh)
-* **Admin Access**: Log in using the **username** and **password** you created during the `python manage.py createsuperuser` step.
+* **Admin Access**: Log in using the **usernam** and **password** you created during the `python manage.py createsuperuser` step.
 * **Adding Users/Venues**: Once logged in as Admin, you can add Lecturers, Students, and Venues via the admin interface, or upload the included `timetable.csv` file to populate the timetables.
 
 ### Scenario 2: If you chose Option B (Pre-populated Demo Data)
