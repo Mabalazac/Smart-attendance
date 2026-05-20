@@ -85,25 +85,26 @@ WSGI_APPLICATION = 'smart_venue.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/5.2/ref/settings/#databases
 
-# PostgreSQL configuration (Default)
+# SQLite configuration (Default: Zero installation required, database is saved in a single file)
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'smart_venue_db',
-        'USER': 'postgres',
-        'PASSWORD': 'mjtechnologies',  # Update this to your PostgreSQL password
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.sqlite3',
+        'NAME': BASE_DIR / 'db.sqlite3',
     }
 }
 
-# SQLite configuration (Alternative: uncomment below and comment out PostgreSQL above to use SQLite with zero installation)
+# PostgreSQL configuration (Alternative: uncomment below and comment out SQLite above to use PostgreSQL)
 # DATABASES = {
 #     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
+#         'ENGINE': 'django.db.backends.postgresql',
+#         'NAME': 'smart_venue_db',
+#         'USER': 'postgres',
+#         'PASSWORD': 'mjtechnologies',  # Update this to your PostgreSQL password
+#         'HOST': 'localhost',
+#         'PORT': '5432',
 #     }
 # }
+
 
 
 # Password validation

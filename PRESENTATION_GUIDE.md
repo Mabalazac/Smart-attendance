@@ -56,42 +56,22 @@ pip install -r requirements.txt
 ```
 
 ### Step 1.4: Configure the Database 🗄️
-You have two options for the database:
+The project is configured to use **SQLite by default**, which requires **zero setup**. The database file `db.sqlite3` will automatically be created in the `backend` folder when you run migrations.
 
-#### Option A: SQLite (Quickest, Zero Setup - Recommended for Presentation)
-You don't need to install anything. The app will use the single-file database `db.sqlite3` included in the project.
-1. Open `backend/smart_venue/settings.py` in a text editor (like VS Code, Notepad, etc.).
-2. Go to line **88** (the `DATABASES` section).
-3. **Comment out** the PostgreSQL block by adding `#` to the lines, and **uncomment** the SQLite block. It should look like this:
-   ```python
-   # PostgreSQL configuration (Default)
-   # DATABASES = {
-   #     'default': {
-   #         'ENGINE': 'django.db.backends.postgresql',
-   #         'NAME': 'smart_venue_db',
-   #         'USER': 'postgres',
-   #         'PASSWORD': 'mjtechnologies',
-   #         'HOST': 'localhost',
-   #         'PORT': '5432',
-   #     }
-   # }
+#### Option A: SQLite (Default & Recommended - Zero Setup)
+* **No action required!** Simply skip to Step 1.5.
 
-   # SQLite configuration (Alternative: uncomment below and comment out PostgreSQL above to use SQLite)
-   DATABASES = {
-       'default': {
-           'ENGINE': 'django.db.backends.sqlite3',
-           'NAME': BASE_DIR / 'db.sqlite3',
-       }
-   }
-   ```
-
-#### Option B: PostgreSQL
-If you already have PostgreSQL installed and running:
-1. Open pgAdmin or terminal and create a database named `smart_venue_db`.
-2. Ensure settings in `backend/smart_venue/settings.py` match your PostgreSQL password:
+#### Option B: PostgreSQL (Alternative)
+If you want to use PostgreSQL:
+1. Create a database named `smart_venue_db` in pgAdmin or PostgreSQL terminal.
+2. Open `backend/smart_venue/settings.py` in a text editor.
+3. Scroll to the `DATABASES` section (around line 85).
+4. Comment out the SQLite block (add `#` to the lines) and uncomment the PostgreSQL block.
+5. Ensure the password matches your PostgreSQL setup:
    ```python
    'PASSWORD': 'your_postgres_password',
    ```
+
 
 ### Step 1.5: Database Initialization (Choose Option A or Option B)
 
